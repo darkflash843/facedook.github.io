@@ -1,0 +1,84 @@
+body{ background-color: rgb(237, 237, 237);}
+.facebooktext{
+    margin-left: 300px;
+    margin-top: 250px;
+    
+}
+.facebook{
+    color:blue;
+    margin: 10px;
+    align-items: center;
+    font-size: 50px;
+}
+.text{
+    color:black;
+    margin: 10px;
+    align-items: center;
+    font-size: 25px;
+}
+.box{
+    margin-left: 1000px;
+    margin-top: -250px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 20px rgb(90, 89, 89);
+    width: 400px;
+    height: 400px;
+    background-color: white;
+}
+#search{
+    width: 380px;
+    height: 53px;
+    font-size: 17px;
+    border-radius: 8px;
+    outline: none;
+    border: 2px solid rgb(210, 210, 210);
+    margin-top: 5%;
+    margin-left: 10px;
+}
+#password{
+    width: 375px;
+    height: 50px;
+    font-size: 17px;
+    border-radius: 8px;
+    outline: none;
+    border: 2px solid rgb(210, 210, 210);
+    margin-top: 5%;
+    margin-left: 10px;
+}
+.shesvla{
+    width: 380px;
+    height: 53px;
+    font-size: 17px;
+    border-radius: 8px;
+    outline: none;
+    border: 2px solid rgb(0, 85, 255);
+    margin-top: 5%;
+    margin-left: 10px;
+    background-color: rgb(0, 85, 255);
+    font-size: 20px; 
+    cursor: pointer;
+    color: white;
+}
+.dagaviwkda{
+    color: rgb(0, 85, 225);
+    font-size: 18px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+#xazi{
+    color: rgb(177, 177, 177);
+    margin-top: 30px;
+}
+.daregistrirdit{
+    width: 250px;
+    height: 55px;
+    font-size: 17px;
+    border-radius: 8px;
+    outline: none;
+    border: 2px solid rgb(7, 169, 7);
+    margin-top: 2px;
+    margin-left: 74px;
+    background-color:rgb(7, 169, 7);
+    cursor: pointer;
+    color: white;
+}
